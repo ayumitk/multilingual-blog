@@ -6,7 +6,7 @@ import Language from "./Language"
 const Header = ({ siteTitle }) => (
   <header
     style={{
-      background: `rebeccapurple`,
+      background: `#ff4a69`,
       marginBottom: `1.45rem`,
     }}
   >
